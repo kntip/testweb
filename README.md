@@ -2,6 +2,11 @@
 Decoded Action@kntipのテスト用リポジトリ
 
 今後フロントエンド開発にGitを使用
+Gitの動作確認中。
+
+現在、Git動作確認中です。
+
+
 
 ## メンバー
 
@@ -10,6 +15,7 @@ Decoded Action@kntipのテスト用リポジトリ
 
 
 ## リリース方法
+
 
 
 
